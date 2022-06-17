@@ -4,7 +4,8 @@ I am making a gesture controlled lock that responds using a SparkFun Sensor, and
 |:--:|:--:|:--:|:--:|
 | Max Zhai | The Harker School | Electrical Engineering | Incoming Sophmore
 
-![Headstone Image](https://photos.google.com/share/AF1QipO0ofjm79WtdqiaPgvJbRWMM0RYuNqnRIxu0quzmkNXE34ZWxihrzg3TKo6hJyKCQ/photo/AF1QipMKsoMRUCdQBKwOqivnu60_8Re61f0BlEEJ7jnw?key=X3ZOT0F1Y0xPVzJGVFREY0xPaG1aeHU5Z0RIQXNn)
+![Headstone Image]
+(https://lh3.googleusercontent.com/pw/AM-JKLVv44caj-X_rGU7xQHonMdWulVubTEILhKeyO1itMKahhuyeMRRbI53_rJKiigERZfy-5e3jP5WyW5sstYSx-DIpZN7No_zDb821ZAMDTFgKyfIxIzPRD_TabnSdFVVjdU9ofbkGrJrrJryZWumpRFz=w1433-h1431-no?authuser=0)}
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
