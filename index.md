@@ -1,10 +1,8 @@
 ﻿# Gesture Controlled Lock
 I am making a gesture controlled lock that responds using a SparkFun Sensor, and a servo to rotate the lock. The lock has a specific password, a sequence of gestures, that the sensor must receive in order to unlock it. There is also a display to tell the user whether or not the password is correct, and what to do next.
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Max Zhai | The Harker School | Electrical Engineering | Incoming Sophmore
 
-![Headstone Image]
 (![image](https://user-images.githubusercontent.com/42756575/174340184-5a8cc2b8-2c25-4434-9d1a-629f4991969f.png)
   
 # Final Milestone
