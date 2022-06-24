@@ -24,5 +24,5 @@ For my first milestone, I had planned to get the basic components of my project 
 
 For my Arduino circuit, I chose to use a button as my input, and an LED as my output. In the Arduino app, I coded it so that the LED would light up whenever I pressed or held the button. I had some trouble with the materials and using a protoshield at first, but I learned how to solder properly and desoldering as well. Eventually, I switched to a breadboard, which was more convenient and user-friendly.
 
-[![Starter Project](<img width="222" alt="Screen Shot 2022-06-24 at 2 10 19 PM" src="https://user-images.githubusercontent.com/42756575/175667835-60377379-e1e9-4aa6-b975-6287b830e8e4.png">
+[![Starter Project](![image](https://user-images.githubusercontent.com/42756575/175674002-ed9364d6-4e1e-4a8c-84d3-5b8ddb7caa53.png)
 )](https://www.youtube.com/watch?v=mVaiWFbPJiM)
