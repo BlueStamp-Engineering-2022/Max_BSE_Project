@@ -19,8 +19,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
   
 
 For my first milestone, I had planned to get the basic components of my project working, and my servo to be able to move. To acheive this, I had to search up tutorials about the different parts of my project and experiment with them. Fortunately, Arduino provided example programs to help me test individual parts of my circuit, which helped me to troubleshoot and figure out which parts of my circuit were malfunctioning. I first got the RGB cathode working, which was useful in getting the scanner set up and working. After I figured out the differences between the power, ground, and signal wires, my . The schematic that I based my design off of had some differences, so I had to adjust my design. I had some trouble with my LCD, but I managed to figure out how to get it functional using another Arduino provided example, which allowed me to isolate the LCD and print "Hello World" to the screen. Once I had the LCD working, it greatly helped me in debugging the rest of my project by printing out the state of my sensor. My sensor caused me a lot of trouble and bugs, but I eventually figured out that the problem was with the connection of the wires, and soldering them fixed it.
-[![First Milestone]()]([https://www.youtube.com/watch?v=CaCazFBhYKs](https://www.youtube.com/watch?v=gO-LkjuNxZQ) "First Milestone"){:target="_blank" rel="noopener"}
-
+[![First Milestone]()]([https://www.youtube.com/watch?v=gO-LkjuNxZQ])
 # Customized Arduino Circuit 
 
 For my Arduino circuit, I chose to use a button as my input, and an LED as my output. In the Arduino app, I coded it so that the LED would light up whenever I pressed or held the button. I had some trouble with the materials and using a protoshield at first, but I learned how to solder properly and desoldering as well. Eventually, I switched to a breadboard, which was more convenient and user-friendly.
