@@ -24,10 +24,9 @@ For my second milestone, I planned to get all the software and the code in my pr
 
 [![Second Milestone](https://i3.ytimg.com/vi/0JnEoQxv6RY/maxresdefault.jpg)](https://www.youtube.com/watch?v=0JnEoQxv6RY)
 # First Milestone
-![schematic_bb3_ojGtzuoycT (1)](https://user-images.githubusercontent.com/42756575/176497015-6562542e-6ad9-4e5e-940f-f97f66ca3c78.png)
-
 
 For my first milestone, I had planned to get the basic components of my project working, and my servo to be able to move. To acheive this, I had to search up tutorials about the different parts of my project and experiment with them. Fortunately, Arduino provided example programs to help me test individual parts of my circuit, which helped me to troubleshoot and figure out which parts of my circuit were malfunctioning. I first got the RGB cathode working, which was useful in getting the scanner set up and working. After I figured out the differences between the power, ground, and signal wires, my . The schematic that I based my design off of had some differences, so I had to adjust my design. I had some trouble with my LCD, but I managed to figure out how to get it functional using another Arduino provided example, which allowed me to isolate the LCD and print "Hello World" to the screen. Once I had the LCD working, it greatly helped me in debugging the rest of my project by printing out the state of my sensor. My sensor caused me a lot of trouble and bugs, but I eventually figured out that the problem was with the connection of the wires, and soldering them fixed it.
+![schematic_bb3_ojGtzuoycT (1)](https://user-images.githubusercontent.com/42756575/176497015-6562542e-6ad9-4e5e-940f-f97f66ca3c78.png)
 [![First Milestone](https://i3.ytimg.com/vi/gO-LkjuNxZQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=gO-LkjuNxZQ)
 # Customized Arduino Circuit 
 
