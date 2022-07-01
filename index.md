@@ -14,7 +14,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 For my second milestone, I planned to get all the software and the code in my project working, so that my sensor could accurately record the gestures and the rest of my circuit would respond accurately. I have an array of gestures that acts as the password, and then each gesture my sensor receives is compared to the current gesture or step of the password. During each step, my LCD outputs information about the state of my program, and my RGB cathode turns red or green based on the result. I enjoyed the process of coding to figure out how to make all the components of my project work correctly. I also had to troubloeshoot numerous issues involving my gesture sensor, but the serial monitor that Arduino provides really helped me to figure out what was happening and how to fix my issues. For a quick demonstration, my first gesture is right. I did that right, so I can advance to the next gesture in the password. Lets say I do this one wrong, then my LCD will tell me to return to the main menu, and I will have to restart the whole password. After completing it correctly, the servo is unlocked, and then it automatically closes again in about 15 seconds.
 
-[![Second Milestone](https://i3.ytimg.com/vi/0JnEoQxv6RY/maxresdefault.jpg)]([https://www.youtube.com/watch?v=0JnEoQxv6RY])
+[![Second Milestone](https://i3.ytimg.com/vi/0JnEoQxv6RY/maxresdefault.jpg)](https://www.youtube.com/watch?v=0JnEoQxv6RY)
 # First Milestone
 ![schematic_bb3_ojGtzuoycT (1)](https://user-images.githubusercontent.com/42756575/176497015-6562542e-6ad9-4e5e-940f-f97f66ca3c78.png)
 
@@ -25,4 +25,4 @@ For my first milestone, I had planned to get the basic components of my project 
 
 For my Arduino circuit, I chose to use a button as my input, and an LED as my output. In the Arduino app, I coded it so that the LED would light up whenever I pressed or held the button. I had some trouble with the materials and using a protoshield at first, but I learned how to solder properly and desoldering as well. Eventually, I switched to a breadboard, which was more convenient and user-friendly.
 
-[![Starter Project](https://i3.ytimg.com/vi/mVaiWFbPJiM/maxresdefault.jpg)]([https://www.youtube.com/watch?v=mVaiWFbPJiM])
+[![Starter Project](https://i3.ytimg.com/vi/mVaiWFbPJiM/maxresdefault.jpg)](https://www.youtube.com/watch?v=mVaiWFbPJiM)
