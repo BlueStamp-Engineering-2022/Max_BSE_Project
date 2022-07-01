@@ -7,7 +7,9 @@ I am making a gesture controlled lock that responds using a SparkFun Sensor, and
 ![image](https://user-images.githubusercontent.com/42756575/174340184-5a8cc2b8-2c25-4434-9d1a-629f4991969f.png)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+For my final milestone, I decided to make multiple timers for my project, which tell me how much time I took to open the lock and do the password. At any point in the password sequence, if I exceed a time limit of 30 seconds, the program will force me to restart from the beginning, and that is outputed on the LCD. I used a reset function that I searched up, which allowed me to restart the entire program when I hit the time limit. This timer gives an added challenge to opening the lock. To make the other timer, I experimented with examples in Arduino, and I figured out how to make multiple variables and update them in order to make the timer accurate. I also modified my project into a safe, and I decided to my attach my servo to the front here to act as a lock. All of my modifications have made the lock more challenging and harder to break through.
+![IMG_2202](https://user-images.githubusercontent.com/42756575/176977632-28d364ef-b6e7-4ee0-9f7d-ffeedc61a6b5.jpg)
+
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone")
 
