@@ -4,7 +4,7 @@ I am making a gesture controlled lock that responds using a SparkFun Sensor, and
 |:--:|:--:|:--:|:--:|
 | Max Zhai | The Harker School | Electrical Engineering | Incoming Sophmore
 
-![image](https://user-images.githubusercontent.com/42756575/174340184-5a8cc2b8-2c25-4434-9d1a-629f4991969f.png)
+![Headstone Image](https://user-images.githubusercontent.com/42756575/174340184-5a8cc2b8-2c25-4434-9d1a-629f4991969f.png)
   
 # Final Milestone
 For my final milestone, I decided to make multiple timers for my project, which tell me how much time I took to open the lock and do the password. At any point in the password sequence, if I exceed a time limit of 30 seconds, the program will force me to restart from the beginning, and that is outputed on the LCD. I used a reset function that I searched up, which allowed me to restart the entire program when I hit the time limit. This timer gives an added challenge to opening the lock. To make the other timer, I experimented with examples in Arduino, and I figured out how to make multiple variables and update them in order to make the timer accurate. I also modified my project into a safe, and I decided to my attach my servo to the front here to act as a lock. All of my modifications have made the lock more challenging and harder to break through.
